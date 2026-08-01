@@ -1,3 +1,9 @@
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Frontend](https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-success?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 # Web-page-for-Pineterst
 Pinterest Landing Page (HTML)
 
